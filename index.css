@@ -67,6 +67,10 @@
   width: 100%;
 }
 
+.pimg {
+  background-color: whitesmoke;
+}
+
 .who {
   color: black;
   font-weight: bold;
